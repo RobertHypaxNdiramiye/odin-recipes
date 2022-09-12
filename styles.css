@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    background-color: #faa307;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #9d0208;
+    list-style: none;
+}
+a:hover{
+    color: #ffffff;
+}
