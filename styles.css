@@ -3,10 +3,12 @@ body{
     background-color: #faa307;
     color: #ffffff;
 }
-a{
+ul{
     text-decoration: none;
-    color: #9d0208;
     list-style: none;
+}
+a{
+    color: #9d0208;
 }
 a:hover{
     color: #ffffff;
