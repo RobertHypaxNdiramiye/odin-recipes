@@ -30,6 +30,9 @@ a:hover{
     color: #ffffff;
     text-decoration: none;
 }
+a>img:hover{
+    border: 15px double #fca311;
+}
 p{
     font-size: 2rem;
 }
