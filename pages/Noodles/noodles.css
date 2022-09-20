@@ -7,13 +7,6 @@ body{
     background-color: #faa307;
     color: #000000;
 }
-ul{
-    text-decoration: none;
-    list-style: none;
-}
-a{
-    color: #9d0208;
-}
-a:hover{
-    color: #ffffff;
+h1{
+    font-size: 4rem;
 }
