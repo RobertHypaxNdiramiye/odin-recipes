@@ -38,3 +38,7 @@ img{
     margin: 15px;
     border-radius: 30px;
 }
+.image{ 
+    margin: 15px;
+    align-self: center;
+}
