@@ -10,3 +10,8 @@ body{
 div{
     width: 60%;
 }
+img{
+    border: 15px double #637c0a;
+    margin: 15px;
+    border-radius: 30px;
+}
