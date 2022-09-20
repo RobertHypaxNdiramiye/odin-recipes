@@ -8,6 +8,9 @@ body{
     background-color: #faa307;
     color: #000000;
 }
+h1{
+    font-size: 4rem;
+}
 ul{
     text-decoration: none;
     list-style: none;
