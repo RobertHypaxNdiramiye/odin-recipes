@@ -24,3 +24,8 @@ figcaption{
 h2{
     font-size: 2.5rem;
 }
+p, ol, ul{
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.8rem;
+}
