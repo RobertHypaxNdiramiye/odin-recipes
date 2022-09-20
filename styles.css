@@ -11,6 +11,12 @@ body{
 h1{
     font-size: 4rem;
 }
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 70%;
+}
 ul{
     text-decoration: none;
     list-style: none;
