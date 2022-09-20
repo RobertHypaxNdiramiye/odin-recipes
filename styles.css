@@ -23,8 +23,10 @@ ul{
     flex-direction: column;
 }
 a{
-    color: #9d0208;
+    color: #000000;
+    text-decoration: none;
 }
 a:hover{
     color: #ffffff;
+    text-decoration: none;
 }
