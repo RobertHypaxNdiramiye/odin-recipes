@@ -1,11 +1,11 @@
-*{
+* {
     margin: 30px auto;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 body{
-    text-align:center;
-    background-color: #faa307;
+    align-content:center;
+    background-color: #fca311;
     color: #000000;
 }
 h1{
@@ -18,8 +18,8 @@ div{
     width: 70%;
 }
 ul{
-    display: flex;
     list-style: none;
+    display: flex;
     flex-direction: column;
 }
 a{
@@ -29,9 +29,6 @@ a{
 a:hover{
     color: #ffffff;
     text-decoration: none;
-}
-a>img:hover{
-    border: 15px double #fca311;
 }
 p{
     font-size: 2rem;
@@ -44,4 +41,7 @@ img{
 .image{ 
     margin: 15px;
     align-self: center;
+}
+a>img:hover{
+    border: 15px double #fca311;
 }
